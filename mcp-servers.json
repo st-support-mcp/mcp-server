@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "atlassian-rovo",
+      "description": "Atlassian Rovo MCP Server connects your AI agent to Jira and Confluence securely.",
+      "url": "https://mcp.atlassian.com/v1/mcp",
+      "transport": "http"
+    }
+  ]
+}
